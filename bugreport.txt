@@ -1,0 +1,8 @@
+Bug Id: 112
+Title: Can't verify the phone number on new user sign up 
+Severity: Blocker
+Priority: High,
+Environment: iphone 13 mini, IOS 15.5
+Precondition: Installed Glovo app on the devise and registered new user account
+STR:1. Open the APP 2. Tap “food” button 3. Tap "Restaurants" button 4. Choose the restaurant 5. Choose the items from menu and tap button "add" 6.Tap the button "Order" 7. Tap the button "Add the phone number" 8. Write a phone number 9.Phone number confirmation screen opens 10. Whait 1 minute for code 11. If you didn't recieve a codewhait 1 minute for a phone call 12. If you didn't recieved a phone call whait 1 more  minute for a second phone call.    
+AR: App don't send a confirmation code so user can't finish the registration and make an order. User can't use the app.
